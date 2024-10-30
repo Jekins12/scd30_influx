@@ -24,5 +24,5 @@ This project is an Arduino-based program for logging data from an SCD30 sensor (
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/scd_influx_v2.git
-   cd scd_influx_v2
+   git clone https://github.com/yourusername/scd30_influx.git
+   cd scd30_influx

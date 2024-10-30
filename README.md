@@ -46,7 +46,7 @@ This project is an Arduino-based program for logging data from an SCD30 sensor (
 
   - Once the program is running, it will connect to your Wi-Fi network and start collecting data from the SCD30 sensor.
   - Data is sent to your InfluxDB database at the specified measurement interval.
-  - You can access the device information by navigating to http://<device-ip>/discover in your browser.
+  - You can access the device information by navigating to http://device-ip/discover in your browser.
 
 # Air Quality Calculation
 
